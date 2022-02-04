@@ -4,4 +4,4 @@ My First Flutter App: This app calculates tips based on the total bill amount an
 
 Since this was my first flutter app and I started learning along the way without any plan and still in the learning stage so, I have taken help from a pre existing code on codepen.com where this code is available for everyone. 
 https://codepen.io/razorabhu1995/pen/OJXwONm
-Check the above link for the same code on Codepen.com and you can also try it out on the online compiler and run this app as well.
+Check the link to view the code on Codepen.com and you can also try it out on the online compiler and run this app as well.
